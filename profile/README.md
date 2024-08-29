@@ -1,12 +1,4 @@
 ## Astronomical software written in Typescript
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This organisation has the ambition of being the equivalent of [Astropy](https://www.astropy.org) for [TypeScript](https://www.typescriptlang.org). Whilst it is unlikely to 
+achieve the huge sucess of Astropy, partly at least because the audience for these libraries will necessarily be limited to developers rather than "scripting users" that Python attracts, it does start from the same basis of having a TypeScript native implementation of the [SOFA library](http://www.iausofa.org).
